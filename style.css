@@ -6,8 +6,7 @@
 .wrapper {
     width: 100%;
     height: 100vh;
-    /*background-image: url("images/background.png");*/
-    background: linear-gradient(50deg, #d9aac7, #450a3b);
+    background: linear-gradient(130deg, #d9aac7, #450a3b);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -103,12 +102,6 @@ nav ul li a {
     bottom: 0;
     right: 120px;
 }
-
-/*.social {
-    position: absolute;
-    left: -80px;
-    bottom: 140px;
-}*/
 
 .social {
     margin: 30px 80px;
